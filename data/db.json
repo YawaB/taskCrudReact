@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Faire la vaisselle",
+      "priority": 1,
+      "done": true
+    },
+    {
+      "id": 2,
+      "title": "Faire le ménage",
+      "priority": 2,
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "Reviser les cours",
+      "priority": 3,
+      "done": true
+    }
+  ]
+}
